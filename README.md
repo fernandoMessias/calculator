@@ -1,6 +1,6 @@
 ## Calculator
 
-ReactJS project of a calculator for learning purposes.
+Using ReactJS | Udemy course tutorial | Calculator
 
 ### Instructions
 
